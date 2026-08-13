@@ -5,3 +5,4 @@ What I learned and applied today:
 * **`@classmethod`:** Writing an alternative constructor to read data from a string and instantiate an object (`from_string`).
 * **`@staticmethod`:** Utility validation functions that are not directly tied to a class or instance (`is_workday`).
 * **Magic Method:** Using the `__str__` method to print objects in a human-readable format.
+ 
